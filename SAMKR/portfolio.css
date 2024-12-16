@@ -1,0 +1,43 @@
+.navbar{
+    background-color: bisque;
+    height: 10px;
+    padding: 20px;
+    
+    
+}
+*{
+    
+    margin: 0px;
+}
+table{
+    background-color: rgb(238, 238, 219);
+}
+body{background-color:rgba(247, 247, 210, 0.985);
+
+}
+
+.container{
+    background-color: rgb(211, 211, 143);
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+ol{
+    display: flex;
+}
+
+
+img{
+display: flex;
+justify-content: space-evenly;
+}
+
+.media{
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
